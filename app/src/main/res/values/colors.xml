@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#122421</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="touched">#C4C2C2</color>
+    <color name="return_key">@android:color/white</color>
+    <color name="t_toched">#3F3D3D</color>
+
+</resources>
